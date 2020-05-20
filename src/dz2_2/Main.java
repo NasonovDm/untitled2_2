@@ -1,6 +1,6 @@
 package dz2_2;
 
-public class{
+public class Main {
     public static void main(String[] args) {
 
         int result = 0;
